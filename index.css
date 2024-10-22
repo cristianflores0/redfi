@@ -1,0 +1,33 @@
+.navbar-brand img {
+    width: 150px;  
+    height: auto;  
+    display: inline-block; 
+}
+
+.navbar-nav {
+    margin-left: auto;
+    font-weight: 700;
+}
+
+.nav-item {
+    margin-right: 20px; /* Adjust the value to your preference */
+}
+
+
+.custom-margin {
+    margin-right: 80px;
+
+    }
+
+    body {
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    .carousel {
+        height: auto; /* Adjust height as needed for portrait */
+        width: 20%;
+    }
+    
+
+    
+    
