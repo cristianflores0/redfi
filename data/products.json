@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "title": "Mensual",
+      "description": "1 mes de gimnasio ilimitado",
+      "price": 18900
+    },
+    {
+      "id": 2,
+      "title": "Trimestral",
+      "description": "3 meses de gimnasio ilimitado",
+      "price": 45000
+    },
+    {
+      "id": 3,
+      "title": "Medio año",
+      "description": "6 meses de gimnasio ilimitado",
+      "price": 87000
+    },
+    {
+      "id": 4,
+      "title": "Anual",
+      "description": "12 meses de gimnasio ilimitado",
+      "price": 156000
+    },
+    {
+      "id": 5,
+      "title": "Año y Medio",
+      "description": "18 meses de gimnasio ilimitado",
+      "price": 234000
+    }
+  ]
+  
