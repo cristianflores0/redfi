@@ -107,11 +107,11 @@
     }
     
     .card-content {
-        display: none; /* Hidden by default */
+        display: none; 
     }
     
     .card-content.active {
-        display: block; /* Show when active */
+        display: block; 
     }
     
     
